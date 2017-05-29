@@ -5,13 +5,13 @@
 > **Time**: 20 minutes
 
 > **Tasks**:
->- [Prerequisites](#prerequisites)
-- [Task 1: Verify your environment](#task-1-verify-your-environment)
-- [Task 2: Learn about images](#task-2-learn-about-images)
-- [Task 3: Building Images from Dockerfile](#task-3-building-images-from-dockerfile)
-- [Task 4: Running Containers](#task-4-running-containers)
-- [Task 5: Maintaining Containers](#task-5-maintaining-containers)
-- [Task 6: Share your image with Docker Hub](#task-6-share-your-image-with-docker-hub)
+> - [Prerequisites](#prerequisites)
+> - [Task 1: Verify your environment](#task-1-verify-your-environment)
+> - [Task 2: Learn about images](#task-2-learn-about-images)
+> - [Task 3: Building Images from Dockerfile](#task-3-building-images-from-dockerfile)
+> - [Task 4: Running Containers](#task-4-running-containers)
+> - [Task 5: Maintaining Containers](#task-5-maintaining-containers)
+> - [Task 6: Share your image with Docker Hub](#task-6-share-your-image-with-docker-hub)
 
 > **Credits**: [https://github.com/docker/dceu_tutorials](https://github.com/docker/dceu_tutorials)
 

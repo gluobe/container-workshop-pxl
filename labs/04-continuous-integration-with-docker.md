@@ -5,16 +5,16 @@
 > **Time**: 45 minutes
 
 > **Tasks**
-- [Prerequisite](#Prerequisite)
-- [Task 1: Forking the repository](#task-1-forking-the-repository)
-- [Task 2: Docker Hub create an automated build](#task-2-docker-hub-create-an-automated-build)
-- [Task 3: Start the application](#task-3-start-the-application)
-- [Task 4: Start a Jenkins container](#task-4-start-a-jenkins-container)
-- [Task 5: Jenkins basic installation and configuration](#task-5-jenkins-basic-installation-and-configuration)
-- [Task 6: Create a Jenkins deploy job](#task-6-create-a-jenkins-deploy-job)
-- [Task 7: Decrease Jenkins security](#task-7-decrease-jenkins-security)
-- [Task 8: Create Docker Hub webhook](#task-8-create-docker-hub-webhook)
-- [Task 9: Continuous Delivery in practice](#task-9-continuous-delivery-in-practice)
+> - [Prerequisite](#Prerequisite)
+> - [Task 1: Forking the repository](#task-1-forking-the-repository)
+> - [Task 2: Docker Hub create an automated build](#task-2-docker-hub-create-an-automated-build)
+> - [Task 3: Start the application](#task-3-start-the-application)
+> - [Task 4: Start a Jenkins container](#task-4-start-a-jenkins-container)
+> - [Task 5: Jenkins basic installation and configuration](#task-5-jenkins-basic-installation-and-configuration)
+> - [Task 6: Create a Jenkins deploy job](#task-6-create-a-jenkins-deploy-job)
+> - [Task 7: Decrease Jenkins security](#task-7-decrease-jenkins-security)
+> - [Task 8: Create Docker Hub webhook](#task-8-create-docker-hub-webhook)
+> - [Task 9: Continuous Delivery in practice](#task-9-continuous-delivery-in-practice)
 
 ## Prerequisite
 

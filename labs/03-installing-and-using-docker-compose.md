@@ -5,9 +5,9 @@
 > **Time**: 10 minutes
 
 > **Tasks**
-- [Prerequisite](#Prerequisite)
-- [Task 1: Installation](#task-1-installation)
-- [Task 2: Using docker-compose](#task-2-using-docker-compose)
+> - [Prerequisite](#Prerequisite)
+> - [Task 1: Installation](#task-1-installation)
+> - [Task 2: Using docker-compose](#task-2-using-docker-compose)
 
 ## Prerequisite
 

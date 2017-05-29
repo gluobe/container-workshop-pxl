@@ -5,13 +5,13 @@
 > **Time**: 30 minutes
 
 > **Tasks**
-- [Prerequisite](#Prerequisite)
-- [Task 1: Initializing a Docker Swarm cluster](#task-1-initializing-a-docker-swarm-cluster)
-- [Task 2: Joining an existing Docker Swarm cluster](#task-2-joining-an-existing-docker-swarm-cluster)
-- [Task 3: Verifying the cluster](#task-3-verifying-the-cluster)
-- [Task 4: Start the Docker Swarm visualizer](#task-4-start-the-docker-swarm-visualizer)
-- [Task 5: Start a service on the Docker Swarm cluster](#task-5-start-a-service-on-the-docker-swarm-cluster)
-- [Task 6: Scaling a service](#task-6-scaling-a-service)
+> - [Prerequisite](#Prerequisite)
+> - [Task 1: Initializing a Docker Swarm cluster](#task-1-initializing-a-docker-swarm-cluster)
+> - [Task 2: Joining an existing Docker Swarm cluster](#task-2-joining-an-existing-docker-swarm-cluster)
+> - [Task 3: Verifying the cluster](#task-3-verifying-the-cluster)
+> - [Task 4: Start the Docker Swarm visualizer](#task-4-start-the-docker-swarm-visualizer)
+> - [Task 5: Start a service on the Docker Swarm cluster](#task-5-start-a-service-on-the-docker-swarm-cluster)
+> - [Task 6: Scaling a service](#task-6-scaling-a-service)
 
 ## Prerequisite
 

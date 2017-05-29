@@ -6,7 +6,7 @@
 
 > **Tasks**
 > - [Task 1: Installation](#task-1-installation)
-- [Task 2: Verification](#task-2-verification)
+> - [Task 2: Verification](#task-2-verification)
 
 ## Task 1: Installation
 

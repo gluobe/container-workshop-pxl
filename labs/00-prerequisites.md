@@ -6,14 +6,16 @@
 
 > **Tasks**
 > - [Task 1: Slack](#task-1-slack)
-- [Task 2: GitHub](#task-2-github)
-- [Task 3: Docker Hub](#task-3-docker-hub)
+> - [Task 2: GitHub](#task-2-github)
+> - [Task 3: Docker Hub](#task-3-docker-hub)
 
 ## Task 1: Slack
 
 Please join the `#general` channel on Slack:
 
-[https://container-ci-workshop.slack.com/shared_invite/MTQxODA4NDIxNjE3LTE0ODcyNjE0ODYtNjljNTc4NWE0ZA](https://container-ci-workshop.slack.com/shared_invite/MTQxODA4NDIxNjE3LTE0ODcyNjE0ODYtNjljNTc4NWE0ZA)
+[https://container-workshop.slack.com/signup](https://container-workshop.slack.com/signup)
+
+**NOTE: use your @student.pxl.be address to sign up**
 
 ## Task 2: GitHub
 
