@@ -361,7 +361,7 @@ Login Succeeded
   hello-world         latest              0a6ba66e537a        2 weeks ago         960 B
   ```
 
-  NOTE: Tagging an image doesn't duplicate it, it simply adds additional metadata and points at same image. You can confirm that by looking at the Image ID. Notice that the Image ID is the same for 2 out of the 3 images listed.
+  NOTE: Tagging an image doesn't duplicate it, it simply adds additional metadata and points at same image. You can confirm that by looking at the Image ID. Notice that the Image ID is the same for 2 out of the 4 images listed.
 
 4. Push your image to Docker Hub.
 
