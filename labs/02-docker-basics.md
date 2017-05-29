@@ -332,12 +332,10 @@ Once you  have an account, you can login. Login is required to push images to Hu
 1. From the command line, login into Hub with your credentials.
 
   ```
-  docker login
-  Username: <username>
-  Password: <password>
-  Email: <email@com>
-  WARNING: login credentials saved in /home/ubuntu/.docker/config.json
-  Login Succeeded
+Login with your Docker ID to push and pull images from Docker Hub. If you don't have a Docker ID, head over to https://hub.docker.com to create one.
+Username: <username>
+Password: <password>
+Login Succeeded
   ```
 
   If login is successful, you should see a note confirming that.
