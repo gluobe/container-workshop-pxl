@@ -1,4 +1,4 @@
-# Container Continuous Integration Workshop - HoGent
+# Container Workshop - I-Talent - PXL 
 
 In this hands-on workshop you will learn how to:
 
