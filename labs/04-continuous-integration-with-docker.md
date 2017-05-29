@@ -80,15 +80,18 @@ Click the left button to install the most common plugins.  When the installation
 * In this field copy/paste:
 
 ```
+# fill in your Docker Hub username here
+DOCKERHUB_USERNAME=
+
 # stop and remove the container-info container
 docker stop container-info
 docker rm container-info
 
 # pull the latest container-info image
-docker pull trescst/container-info
+docker pull $DOCKERHUB_USERNAME/container-info
 
 # start a new container-info container (using the latest image)
-docker run -d -p 80:80 --name container-info <DOCKERHUB_USERNAME>/container-info
+docker run -d -p 80:80 --name container-info $DOCKERHUB_USERNAME/container-info
 ```
 * Scroll back up to the `Build Triggers` section, and select `Trigger builds remotely (e.g., from scripts)`
 * Enter a random TOKEN_NAME, for example "ChooseYourOwnToken"
