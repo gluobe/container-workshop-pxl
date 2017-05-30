@@ -63,7 +63,7 @@ NOTE: do not worry to much about the `-v` options, these are required to run Doc
 
 ## Task 5: Jenkins basic installation and configuration 
 
-Surf to http://nodeXY.docker.gluo.io:8080, you will see that you need to enter a secret first.  To get the secret you will need to run a command inside the container, this can easily be done using the following command:
+Surf to http://nodeXY.italent.gluo.io:8080, you will see that you need to enter a secret first.  To get the secret you will need to run a command inside the container, this can easily be done using the following command:
 
 ```
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
@@ -114,11 +114,11 @@ For demo purposes we will allow anonymous access, this is required for our webho
 * Login if not already logged-in
 * Search for your image an click `Details` 
 * Click the `Webhooks` tab
-* Add a webhook similar to: `http://nodeXY.docker.gluo.io:8080/job/container-info-deploy//build?token=ChooseYourOwnToken`
+* Add a webhook similar to: `http://nodeXY.italent.gluo.io:8080/job/container-info-deploy//build?token=ChooseYourOwnToken`
 
 ## Task 9: Continuous Delivery in practice
 
-* Surf to http://nodeXY.docker.gluo.io and notice the color of your box
+* Surf to http://nodeXY.italent.gluo.io and notice the color of your box
 * Surf to [GitHub](https://github.com) and select your fork of the container-info repository
 * Click on the `index.php` file
 * Click the edit icon (top right)
