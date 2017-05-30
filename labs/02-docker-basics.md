@@ -290,7 +290,7 @@ In this task, you create and run a new container from the image built in the pre
 
 2. Verify that your container is working:
 
-  In your browser, surft to `http://nodeXY.docker.gluo.io:8080`
+  In your browser, surft to `http://nodeXY.italent.gluo.io:8080`
 
 
 ## Task 5: Maintaining Containers
