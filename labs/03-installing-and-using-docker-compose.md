@@ -1,4 +1,4 @@
-# Lab 05 - Installing and using docker-compose
+# Lab 03 - Installing and using docker-compose
 
 > **Dificulty**: Easy
 
@@ -60,8 +60,8 @@ docker-compose up
 NOTE: you will see a lot of output, first you will see the different images being dowloaded, images being build and at the end you will see the output of the actual services.
 
 Test the app:
-- Voting: http://nodeXY.docker.gluo.io:5000/
-- Result: http://nodeXY.docker.gluo.io:5001/
+- Voting: http://nodeXY.italent.gluo.io:5000/
+- Result: http://nodeXY.italent.gluo.io:5001/
 
 
 ## Conclusion
